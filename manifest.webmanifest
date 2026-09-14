@@ -1,1 +1,10 @@
-{"name": "Detector de fantasmas Zamo V3", "short_name": "Zamo V3", "start_url": "./", "display": "standalone", "theme_color": "#070a0e", "background_color": "#070a0e", "lang": "es"}
+{
+  "name": "ZAMO · Sin Pruebas",
+  "short_name": "ZAMO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07090b",
+  "theme_color": "#07090b",
+  "lang": "es",
+  "description": "Identificador de fantasmas de Phasmophobia basado en comportamiento y ritmo de pasos, sin evidencias."
+}
